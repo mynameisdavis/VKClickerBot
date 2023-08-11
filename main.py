@@ -5,7 +5,7 @@ import random
 
 # Ваши данные для авторизации
 token = "token"
-group_id = "i"
+group_id = "id"
 
 # Инициализация библиотеки vk_api
 vk_session = vk_api.VkApi(token=token)
